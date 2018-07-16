@@ -37,3 +37,4 @@ z: 10
 
 Submit a pull request with your current progress. Include your Completeness (1-5) and Comfort (1-5). We recommend you include your pseudocode, comments, and descriptions of areas where you had difficulty.
 
+This repository is only a modified fork from the original repository available at https://github.com/ga-wdi-exercises/scrabbler 
